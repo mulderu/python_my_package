@@ -1,0 +1,42 @@
+Metadata-Version: 2.1
+Name: my_package
+Version: 0.0.1
+Summary: Demo Library to study
+Home-page: https://github.com/mulderu/addsub_study
+Author: Mulder Yu
+Author-email: mulderu@gmail.com
+Keywords: addsub
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.6
+Requires-Dist: glob2
+Requires-Dist: numpy
+Requires-Dist: names
+
+=========
+Simple my package
+=========
+
+Simple test for package
+
+Examples
+--------
+
+Please open sample/use_cases.ipynb .
+
+Installation
+------------
+
+1. Adding ...
+
+
+.. code::
+
+    pip config set global.extra-index-url https://...
+
+- NONE
